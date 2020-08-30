@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** -Celine van den Bosch-
+**Auteur:** Celine van den Bosch
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
@@ -56,11 +56,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** -rood-
+**Je startniveau:** rood
 
-**Je focus:** -kies uit responsive-
+**Je focus:** responsive
 
-**Je opdracht:** -<http://ballardbarbellandboxingclub.com/>-
+**Je opdracht:** <http://ballardbarbellandboxingclub.com/>
 
 **Screenshot(s):**
 
