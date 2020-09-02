@@ -73,6 +73,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ![screenshot menu](images/bbbcMenu.JPG)
 
 
-**Breakdown-schets(en):**
+**Breakdown-schets:**
 
 ![voorlopige breakdownschets van home](images/breakdownHome.JPG)
