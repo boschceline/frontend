@@ -75,5 +75,4 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Breakdown-schets(en):**
 
-![voorlopige breakdownschets van home](images/breakdownHomeInProgress.JPG)
-![voorlopige breakdownschets van schedule](images/breakdownScheduleInProgress.JPG)
+![voorlopige breakdownschets van home](images/breakdownHome.JPG)
