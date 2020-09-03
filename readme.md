@@ -58,7 +58,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je startniveau:** rood
 
-**Je focus:** responsive
+**Je focus:** surface laag
 
 **Je opdracht:** <http://ballardbarbellandboxingclub.com/>
 
