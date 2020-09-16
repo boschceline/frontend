@@ -48,7 +48,7 @@ Dit was lastig:
 * Logo mee laten groeien / krimpen (responsiveness)
 * Flexbox correct toepassen op de header
 
-NB: Wat betreft de opdracht loop ik een beetje achter op schema. Ik ga er morgen, vrijdag en in het weekend verder mee aan de slag.
+*NB: Wat betreft de opdracht loop ik een beetje achter op schema. Ik ga er morgen, vrijdag en in het weekend verder mee aan de slag.*
 
 **Screenshot(s):**
 
