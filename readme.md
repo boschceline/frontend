@@ -52,7 +52,13 @@ Dit was lastig:
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+![screenshot HTML](images/Voortgang1.JPG)
+![screenshot HTML](images/HTMLVoortgang1.JPG)
+![screenshot HTML](images/CSS1Voortgang1.JPG)
+![screenshot HTML](images/CSS2Voortgang1.JPG)
+![screenshot HTML](images/Voortgang1.2.JPG)
+![screenshot HTML](images/CSS1Voortgang1.2.JPG)
+![screenshot HTML](images/CSS2Voortgang1.2.JPG)
 
 ### Agenda voor meeting
 
@@ -61,9 +67,9 @@ Dingen die we behandeld willen hebben:
 |--------|:-------:|-------:|
 | Transitie in elkaar vouwen van header en main over de hero | Afmetingen en responsiveness van afbeeldingen in CSS | Afmetingen en responsiveness van afbeeldingen in CSS |
 | Voorgrond in sections scrolt over achtergrond foto's heen | Responsive Design Breakpoint | Lege plek |
-| Header (responsiveness van logo en hoogte) en flexbox correct toepassen | Scrollen met Javascript | |
+| Header margin top moet op -15px om tegen de bovenkant te staan | Scrollen met Javascript | |
 | Menu en zoek icoontje als tekst opmaken i.p.v. als afbeelding | Wel goed doen | |
-
+| Header (responsiveness van logo en hoogte) en flexbox correct toepassen | | |
 
 ### Verslag van meeting
 

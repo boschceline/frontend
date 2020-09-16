@@ -1,5 +1,79 @@
 /* CSS Document */
 *, *::after, *::before {
-  box-sizing:border-box;  
+  box-sizing: border-box;
 }
 
+body {
+  background-image: url("bg2.jpg");
+  background-repeat: no-repeat;
+}
+
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #333333;
+  min-width: 300px;
+  width: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+header ul {
+  display: flex;
+  list-style: none;
+  padding: 5px 15px 5px 15px;
+  align-items: center;
+}
+
+header li:first-of-type {
+  margin-right: auto;
+}
+
+header .logo {
+  width: auto;
+}
+
+header .menuButton {
+  padding: 0;
+  border-style: none;
+  background-color: transparent;
+}
+
+header .searchButton {
+  margin-right: 1em;
+  padding: 5px;
+  border-radius: 50%;
+  border-style: none;
+  background-color: #606060;
+}
+
+/*https://courses.wesbos.com/account/access/5f5a246af8289514d0f9a726/view/195970444*/
+@media all and (max-width: 300px) {
+  ul {
+    flex-direction: column;
+  }
+}
+
+/* header .menuButton {
+  position: absolute;
+  right: 5%;
+  top: calc(50% - 19px);
+  padding: 0;
+  border-style: none;
+  background-color: transparent;
+}
+
+header .searchButton {
+  position: absolute;
+  top: calc(50% - 12.5px);
+  right: 15%;
+  padding: 5px;
+  border-radius: 50%;
+  border-style: none;
+  background-color: #606060;
+  margin-right: 10px;
+} */
