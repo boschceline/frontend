@@ -49,11 +49,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 Dingen die we behandeld willen hebben:
 | Celine | Djescho | Floris |
 |--------|:-------:|-------:|
-| Transitie in elkaar vouwen van header en main over de hero | Afmetingen en responsiveness van afbeeldingen in CSS |
-| Voorgrond in sections scrollt over achtergrond foto's | Scrollen met Javascript | Lege plek |
+| Transitie in elkaar vouwen van header en main over de hero | Afmetingen en responsiveness van afbeeldingen in CSS | Afmetingen en responsiveness van afbeeldingen in CSS |
+| Voorgrond in sections scrollt over achtergrond foto's | Responsive Design Breakpoint | Lege plek |
+| | Scrollen met Javascript | |
 | | Wel goed doen | |
 
-
+Wel goed doen
 
 ### Verslag van meeting
 
