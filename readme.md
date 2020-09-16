@@ -39,14 +39,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Stand van zaken
 
 Dit ging goed: 
-..* Responsive design
-..* Werkgroep opdrachten
+* Responsive design
+* Werkgroep opdrachten
 
 Dit was lastig:
-..* Beginnen
-..* Te snel blijven hangen op (nu nog) onnodige details
-..* Logo mee laten groeien / krimpen (responsiveness)
-..* Flexbox correct toepassen op de header
+* Beginnen
+* Te snel blijven hangen op (nu nog) onnodige details
+* Logo mee laten groeien / krimpen (responsiveness)
+* Flexbox correct toepassen op de header
 
 NB: Wat betreft de opdracht loop ik een beetje achter op schema. Ik ga er morgen, vrijdag en in het weekend verder mee aan de slag.
 
@@ -60,7 +60,7 @@ Dingen die we behandeld willen hebben:
 | Celine | Djescho | Floris |
 |--------|:-------:|-------:|
 | Transitie in elkaar vouwen van header en main over de hero | Afmetingen en responsiveness van afbeeldingen in CSS | Afmetingen en responsiveness van afbeeldingen in CSS |
-| Voorgrond in sections scrolt over achtergrond foto's | Responsive Design Breakpoint | Lege plek |
+| Voorgrond in sections scrolt over achtergrond foto's heen | Responsive Design Breakpoint | Lege plek |
 | Header (responsiveness van logo en hoogte) en flexbox correct toepassen | Scrollen met Javascript | |
 | Menu en zoek icoontje als tekst opmaken i.p.v. als afbeelding | Wel goed doen | |
 
