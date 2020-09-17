@@ -83,16 +83,6 @@ Dingen die we behandeld willen hebben:
 * Voeg voor transparantie bij hex-kleuren 88 toe op het eind
 
 
-
-| Celine | Djescho | Floris |
-|--------|:-------:|-------:|
-| | | | 
-| | | |
-| | | |
-| | | |
-
-
-
 ## Intake (week 1)
 
 **Je startniveau:** rood
