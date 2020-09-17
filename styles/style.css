@@ -6,20 +6,34 @@
 body {
   background-image: url("bg2.jpg");
   background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+  padding-top: 20em;
 }
 
 header {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;
-  background-color: #333333;
-  min-width: 300px;
-  width: auto;
+  background-color: #33333388;
 }
 
 a {
   text-decoration: none;
+}
+
+p:first-of-type {
+  width: 1.5em;
+  line-height: 1.5em;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+p {
+  background-color: red;
+  color: yellow;
 }
 
 header ul {
@@ -27,6 +41,7 @@ header ul {
   list-style: none;
   padding: 5px 15px 5px 15px;
   align-items: center;
+  margin: 0;
 }
 
 header li:first-of-type {

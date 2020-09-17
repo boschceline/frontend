@@ -73,6 +73,17 @@ Dingen die we behandeld willen hebben:
 
 ### Verslag van meeting
 
+* Gebruik voor het plaatsen / afnsijden van images vw voor de width en overflow hidden
+* Zet de margin en padding van de body op 0
+* Gebruik comments om verschillende secties in CSS te creëren
+* Header op fixed zetten zodat de content erachter scrolt
+* Hamburger menu pictogram &#9776; is stijlbaar als tekst
+* Pielen met details is oké maar niet te lang, focus eerst op het geheel daarna piel-uurtje
+* Gebruik background-attachment en zet op fixed om de afbeelding op de achtergrond niet te laten mee scrollen met de content
+* Voeg voor transparantie bij hex-kleuren 88 toe op het eind
+
+
+
 | Celine | Djescho | Floris |
 |--------|:-------:|-------:|
 | | | | 
