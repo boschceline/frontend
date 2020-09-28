@@ -9,8 +9,19 @@ body {
   background-attachment: fixed;
   margin: 0;
   padding: 0;
-  padding-top: 20em;
+  font-family: 'Montserrat', sans-serif;
+  color: #FFFFFF;
 }
+
+main {
+  margin-top: 15em;
+}
+
+
+h1, h2, h3 {
+  text-transform: uppercase;
+}
+
 
 header {
   position: fixed;
@@ -22,18 +33,6 @@ header {
 
 a {
   text-decoration: none;
-}
-
-p:first-of-type {
-  width: 1.5em;
-  line-height: 1.5em;
-  text-align: center;
-  font-size: 1.5em;
-}
-
-p {
-  background-color: red;
-  color: yellow;
 }
 
 header ul {
@@ -53,18 +52,72 @@ header .logo {
 }
 
 header .menuButton {
+  color: #FFFFFF;
+  background-color: #E5003D;
+  width: 1.5em;
+  line-height: 1.5em;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
   padding: 0;
   border-style: none;
-  background-color: transparent;
 }
 
 header .searchButton {
+  color: #FFFFFF;
+  font-size: 1.5em;
+  font-weight: bold;
   margin-right: 1em;
-  padding: 5px;
+  width: 1.3em;
   border-radius: 50%;
   border-style: none;
   background-color: #606060;
 }
+
+section {
+  background-color: #E5003D;
+}
+
+section:first-of-type {
+  background-color: transparent;
+  margin-bottom: 10em;
+}
+
+section:first-of-type img {
+  margin-left: calc(50% - 37%);
+  width: 75%;
+}
+
+div {
+  margin-left: calc(50% - 16%);
+  background-color: #FFFFFF;
+  color: #E5003D;
+  border: solid white;
+  border-radius: 50%;
+  text-align: center;
+  width: 33%;
+}
+
+img {
+  width: 100%;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+main button {
+  border: solid #FFFFFF 2px;
+  padding: 1em;
+  background-color: transparent;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  font-family: inherit;
+  font-size: 16px;
+}
+
 
 /*https://courses.wesbos.com/account/access/5f5a246af8289514d0f9a726/view/195970444*/
 @media all and (max-width: 300px) {
