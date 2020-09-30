@@ -88,6 +88,12 @@ section:first-of-type img {
   width: 75%;
 }
 
+section:nth-of-type(5) {
+  height: 20em;
+  background-image: url("bg11.jpg");
+  background-repeat: no-repeat;
+}
+
 div {
   margin-left: calc(50% - 16%);
   background-color: #FFFFFF;
