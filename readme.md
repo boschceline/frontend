@@ -30,7 +30,49 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
+
+Dit ging goed: 
+* HTML aangevuld
+* CSS iets verder uitgewerkt
+
+Dit was lastig:
+* De drempel om meer complexiteit toe te voegen
+* Te snel blijven hangen op (nu nog) onnodige details
+* Kennis toepassen (ik begrijp de stof maar ik mis motivatie om ermee te oefenen en het toe te passen)
+
+*NB: Ik moet mijn code nog opschonen en ordenen d.m.v. comments.*
+
+**Screenshot(s):**
+
+![screenshot HTML](images/Voortgang2.0HTML.JPG)
+![screenshot HTML](images/Voortgang2.1HTML.JPG)
+![screenshot HTML](images/Voortgang2.2HTML.JPG)
+![screenshot HTML](images/Voortgang2.3HTML.JPG)
+![screenshot CSS](images/Voortgang2.4CSS.JPG)
+![screenshot CSS](images/Voortgang2.5CSS.JPG)
+![screenshot CSS](images/Voortgang2.6CSS.JPG)
+![screenshot HTML](images/Voortgang2.0Mobile.JPG)
+![screenshot HTML](images/Voortgang2.1Mobile.JPG)
+![screenshot HTML](images/Voortgang2.2Mobile.JPG)
+![screenshot HTML](images/Voortgang2.3Mobile.JPG)
+![screenshot CSS](images/Voortgang2.4Mobile.JPG)
+![screenshot CSS](images/Voortgang2.5Mobile.JPG)
+
+### Agenda voor meeting
+
+Dingen die we behandeld willen hebben:
+| Celine | Djescho | Floris |
+|--------|:-------:|-------:|
+| Transitie in elkaar vouwen van header en main over de hero (header begint transparant en verkleurd bij het "vouwen") | Ik krijg de scroll knoppen maar niet werkende :) | Wat kan ik toevoegen om aan de surface plane te voldoen, want overal animaties bij maakt het niet beter |
+| Timing tekst animaties (inschuiven vanaf de zijkant tijdens het scrollen) |  |  |
+| Tekst op een makkelijke manier responsive uitlijnen |  |  |
+| First class is free section met meebewegende (achtergrond?) afbeelding |  |  |
+| Afbeelding correct uitknippen / plaatsen op basis van schermgrootte |  |  |
+
+### Verslag van meeting
+
+* ...
 
 
 
@@ -52,13 +94,13 @@ Dit was lastig:
 
 **Screenshot(s):**
 
-![screenshot HTML](images/Voortgang1.JPG)
+![screenshot Home](images/Voortgang1.JPG)
 ![screenshot HTML](images/HTMLVoortgang1.JPG)
-![screenshot HTML](images/CSS1Voortgang1.JPG)
-![screenshot HTML](images/CSS2Voortgang1.JPG)
-![screenshot HTML](images/Voortgang1.2.JPG)
-![screenshot HTML](images/CSS1Voortgang1.2.JPG)
-![screenshot HTML](images/CSS2Voortgang1.2.JPG)
+![screenshot CSS](images/CSS1Voortgang1.JPG)
+![screenshot CSS](images/CSS2Voortgang1.JPG)
+![screenshot HomeL](images/Voortgang1.2.JPG)
+![screenshot CSS](images/CSS1Voortgang1.2.JPG)
+![screenshot CSS](images/CSS2Voortgang1.2.JPG)
 
 ### Agenda voor meeting
 
