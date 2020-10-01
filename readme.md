@@ -64,11 +64,11 @@ Dit was lastig:
 Dingen die we behandeld willen hebben:
 | Celine | Djescho | Floris |
 |--------|:-------:|-------:|
-| Transitie in elkaar vouwen van header en main over de hero (header begint transparant en verkleurd bij het "vouwen") | Ik krijg de scroll knoppen maar niet werkende :) | Wat kan ik toevoegen om aan de surface plane te voldoen, want overal animaties bij maakt het niet beter |
+| Afbeelding correct uitknippen / plaatsen (met z-index) op basis van schermgrootte | Ik krijg de scroll knoppen maar niet werkende :) | Wat kan ik toevoegen om aan de surface plane te voldoen, want overal animaties bij maakt het niet beter |
 | Timing tekst animaties (inschuiven vanaf de zijkant tijdens het scrollen) |  |  |
 | Tekst op een makkelijke manier responsive uitlijnen |  |  |
 | First class is free section met meebewegende (achtergrond?) afbeelding |  |  |
-| Afbeelding correct uitknippen / plaatsen op basis van schermgrootte |  |  |
+| Transitie in elkaar vouwen van header en main over de hero (header begint transparant en verkleurd bij het "vouwen") |  |  |
 
 ### Verslag van meeting
 
