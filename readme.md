@@ -73,7 +73,10 @@ Dingen die we behandeld willen hebben:
 
 ### Verslag van meeting
 
-* ...
+* Om tekst op een afbeelding te krijgen moet je de elementen die bovenop komen position relative geven en de z-index aanpassen, en / of de afbeelding position absolute te geven en de z-index aanpassen (probeer eventueel een div om de content te zetten)
+* Pas de grootte van een afbeelding aan met width %
+* Background overlay door middel van z-index
+* Tips om javascript toe te voegen: menu naar binnen laten schuiven en / of omdraai animatie op 'our pricing'
 
 
 
