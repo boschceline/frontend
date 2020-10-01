@@ -38,6 +38,7 @@ Dit ging goed:
 
 Dit was lastig:
 * De drempel om meer complexiteit toe te voegen
+* Z-index gebruiken op een afbeelding
 * Te snel blijven hangen op (nu nog) onnodige details
 * Kennis toepassen (ik begrijp de stof maar ik mis motivatie om ermee te oefenen en het toe te passen)
 
