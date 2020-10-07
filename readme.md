@@ -37,8 +37,6 @@ Dit was lastig:
 * Te snel blijven hangen op (nu nog) onnodige details
 * Responsiveness van de elementen en afbeeldingen
 
-*NB: Ik moet mijn code nog opschonen en ordenen d.m.v. comments.*
-
 **Screenshot(s):**
 
 ![screenshot HTML](images/Voortgang3.0HTML.JPG)
