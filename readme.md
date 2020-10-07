@@ -24,8 +24,57 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+### Stand van zaken
 
+Dit ging goed: 
+* HTML aangevuld
+* CSS verder uitgewerkt
+* Code opgeschoond (georganiseerd)
+* Eindelijk de z-index gefixt
+
+Dit was lastig:
+* De drempel om meer complexiteit toe te voegen 
+* Te snel blijven hangen op (nu nog) onnodige details
+* Responsiveness van de elementen en afbeeldingen
+
+*NB: Ik moet mijn code nog opschonen en ordenen d.m.v. comments.*
+
+**Screenshot(s):**
+
+![screenshot HTML](images/Voortgang3.0HTML.JPG)
+![screenshot HTML](images/Voortgang3.1HTML.JPG)
+![screenshot HTML](images/Voortgang3.2HTML.JPG)
+![screenshot HTML](images/Voortgang3.3HTML.JPG)
+![screenshot HTML](images/Voortgang3.4HTML.JPG)
+![screenshot CSS](images/Voortgang3.0CSS.JPG)
+![screenshot CSS](images/Voortgang3.1CSS.JPG)
+![screenshot CSS](images/Voortgang3.2CSS.JPG)
+![screenshot CSS](images/Voortgang3.3CSS.JPG)
+![screenshot CSS](images/Voortgang3.4CSS.JPG)
+![screenshot CSS](images/Voortgang3.5CSS.JPG)
+![screenshot CSS](images/Voortgang3.6CSS.JPG)
+![screenshot mobiel](images/Voortgang3.0Mobile.JPG)
+![screenshot mobiel](images/Voortgang3.1Mobile.JPG)
+![screenshot mobiel](images/Voortgang3.2Mobile.JPG)
+![screenshot mobiel](images/Voortgang3.3Mobile.JPG)
+![screenshot mobiel](images/Voortgang3.4Mobile.JPG)
+![screenshot mobiel](images/Voortgang3.5Mobile.JPG)
+![screenshot mobiel](images/Voortgang3.6Mobile.JPG)
+
+### Agenda voor meeting
+
+Dingen die we behandeld willen hebben:
+| Celine | Djescho | Floris |
+|--------|:-------:|-------:|
+| Responsiveness afbeeldingsgrootte | (Nog) geen vragen | Wat kan ik toevoegen om aan de surface plane te voldoen, want overal animaties bij maakt het niet beter |
+| Zoekbalk 'pop-up' |  | Items in een gradient op hun plek laten bij responsive |
+| Responsiveness van hamburger menu icoon naar menu-items naast elkaar uigelijnd in navigatiebalk |  |  |
+| Timing tekst animaties (inschuiven vanaf de zijkant tijdens het scrollen) |  |  |
+| First class is free section met meebewegende (achtergrond/overlay?) afbeelding |  |  |
+
+### Verslag van meeting
+
+* ...
 
 
 ## Voortgang 2 (week 5)
@@ -53,12 +102,12 @@ Dit was lastig:
 ![screenshot CSS](images/Voortgang2.4CSS.JPG)
 ![screenshot CSS](images/Voortgang2.5CSS.JPG)
 ![screenshot CSS](images/Voortgang2.6CSS.JPG)
-![screenshot HTML](images/Voortgang2.0Mobile.JPG)
-![screenshot HTML](images/Voortgang2.1Mobile.JPG)
-![screenshot HTML](images/Voortgang2.2Mobile.JPG)
-![screenshot HTML](images/Voortgang2.3Mobile.JPG)
-![screenshot CSS](images/Voortgang2.4Mobile.JPG)
-![screenshot CSS](images/Voortgang2.5Mobile.JPG)
+![screenshot mobiel](images/Voortgang2.0Mobile.JPG)
+![screenshot mobiel](images/Voortgang2.1Mobile.JPG)
+![screenshot mobiel](images/Voortgang2.2Mobile.JPG)
+![screenshot mobiel](images/Voortgang2.3Mobile.JPG)
+![screenshot mobiel](images/Voortgang2.4Mobile.JPG)
+![screenshot mobiel](images/Voortgang2.5Mobile.JPG)
 
 ### Agenda voor meeting
 
@@ -77,7 +126,6 @@ Dingen die we behandeld willen hebben:
 * Pas de grootte van een afbeelding aan met width %
 * Background overlay door middel van z-index
 * Tips om javascript toe te voegen: menu naar binnen laten schuiven en / of omdraai animatie op 'our pricing'
-
 
 
 ## Voortgang 1 (week 3)

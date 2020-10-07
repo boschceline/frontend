@@ -18,6 +18,7 @@ body {
 /* Navigatiebalk */
 header {
   position: fixed;
+  z-index: 20;
   top: 0;
   left: 0;
   right: 0;
@@ -112,9 +113,12 @@ main button {
 
 /* Eerste section: group classes */
 .groupClassDiv {
+  position: absolute;
+  z-index: 10;
   text-align: right;
   padding: 30px 75px 10px 0px;
   margin-left: 15px;
+  overflow: auto;
 }
 
 .groupClassDiv p {
@@ -122,13 +126,17 @@ main button {
 }
 
 .groupClassImg {
+  position: relative;
   width: 50%;
+  margin-top: 8em;
   margin-left: 50%;
 }
 
 
 /* Tweede section: personal training */
 .personalTrainingDiv {
+  position: absolute;
+  z-index: 10;
   text-align: left;
   padding: 30px 0px 10px 68px;
   margin-right: 15px;
@@ -139,7 +147,9 @@ main button {
 }
 
 .personalTrainingImg {
+  position: relative;
   width: 50%;
+  margin-top: 8em;
   margin-right: 50%;
 }
 
