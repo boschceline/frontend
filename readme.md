@@ -67,12 +67,12 @@ Dingen die we behandeld willen hebben:
 | Responsiveness afbeeldingsgrootte | Hoeveel animatie moet erin zitten als je voor responsive gaat | Wat kan ik toevoegen om aan de surface plane te voldoen, want overal animaties bij maakt het niet beter |
 | Zoekbalk 'pop-up' | Max width opgelost met flexbox, is this the way? | Items in een gradient op hun plek laten bij responsive |
 | Responsiveness van hamburger menu icoon naar menu-items naast elkaar uigelijnd in navigatiebalk |  |  |
-| Timing tekst animaties (inschuiven vanaf de zijkant tijdens het scrollen) |  |  |
-| First class is free section met meebewegende (achtergrond/overlay?) afbeelding |  |  |
 
 ### Verslag van meeting
 
-* ...
+* De afbeeldingsgrootte regulieren d.m.v. max-width
+* Zoekbalk pop-up d.m.v. label en input (laten oppoppen met scale)
+* De responsiveness van het menu regulieren d.m.v. de menu items (zie <https://codepen.io/shooft/pen/BaKGKwm/> en <https://codepen.io/shooft/pen/yLOdLBg/>) 
 
 
 ## Voortgang 2 (week 5)
