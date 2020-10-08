@@ -64,8 +64,8 @@ Dit was lastig:
 Dingen die we behandeld willen hebben:
 | Celine | Djescho | Floris |
 |--------|:-------:|-------:|
-| Responsiveness afbeeldingsgrootte | (Nog) geen vragen | Wat kan ik toevoegen om aan de surface plane te voldoen, want overal animaties bij maakt het niet beter |
-| Zoekbalk 'pop-up' |  | Items in een gradient op hun plek laten bij responsive |
+| Responsiveness afbeeldingsgrootte | Hoeveel animatie moet erin zitten als je voor responsive gaat | Wat kan ik toevoegen om aan de surface plane te voldoen, want overal animaties bij maakt het niet beter |
+| Zoekbalk 'pop-up' | Max width opgelost met flexbox, is this the way? | Items in een gradient op hun plek laten bij responsive |
 | Responsiveness van hamburger menu icoon naar menu-items naast elkaar uigelijnd in navigatiebalk |  |  |
 | Timing tekst animaties (inschuiven vanaf de zijkant tijdens het scrollen) |  |  |
 | First class is free section met meebewegende (achtergrond/overlay?) afbeelding |  |  |
@@ -177,9 +177,9 @@ Dingen die we behandeld willen hebben:
 
 ## Intake (week 1)
 
-**Je startniveau:** rood
+**Je startniveau:** paars (blauw / rood)
 
-**Je focus:** surface laag
+**Je focus:** responsive
 
 **Je opdracht:** <http://ballardbarbellandboxingclub.com/>
 
