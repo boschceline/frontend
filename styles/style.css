@@ -57,6 +57,10 @@ header .menuButton {
   border-style: none;
 }
 
+header li:nth-of-type(2) {
+position: relative;
+}
+
 header .searchButton {
   color: #FFFFFF;
   font-size: 24px;
@@ -66,6 +70,23 @@ header .searchButton {
   border-radius: 50%;
   border-style: none;
   background-color: #606060;
+}
+
+#search {
+position: absolute;
+width: 12em;
+right: -3em;
+top: calc(100% + 1em);
+opacity: 0;
+transition: .2s;
+transform: scale(0);
+transform-origin: calc(100% - 3em) top;
+}
+
+#search:focus {
+  display: block;
+  opacity: 1;
+  transform: scale(1);
 }
 
 
@@ -128,6 +149,7 @@ main button {
 .groupClassImg {
   position: relative;
   width: 50%;
+  max-width: 16em;
   margin-top: 8em;
   margin-left: 50%;
 }
