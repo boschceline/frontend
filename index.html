@@ -13,138 +13,181 @@
 </head>
 
 <body>
-<!-- Navigatiebalk  -->
-	<header>
+	<!-- Navigatiebalk OUD -->
+	<!-- <header>
 		<ul>
 			<li class="logo">
 				<a href="index.html"><img src="img/logo.png" alt="BBBC logo"></a>
 			</li>
-			<li>
-				<!-- &#8981; = hamburger menu icoon -->
-				<label for="search" class="searchButton">&#8981;</label>
+			<li> -->
+	<!-- &#8981; = vergrootglas icoon -->
+	<!-- <label for="search" class="searchButton">&#8981;</label>
 				<input id="search" type="search" placeholder="Search">
 			</li>
-			<li>
-				<!-- &#9776; = vergrootglas (zoek) icoon -->
-				<button type="button" class="menuButton">&#9776;</button>
+			<li> -->
+	<!-- &#9776; = hamburger menu icoon -->
+	<!-- <button type="button" class="menuButton">&#9776;</button>
 			</li>
 		</ul>
+	</header> -->
+
+	<!-- Navigatiebalk  -->
+	<header>
+		<ul class="headerFlex">
+			<li>
+		<a href="index.html"><img src="img/logo.png" alt="BBBC logo"></a>
+</li>
+<li>
+		<!-- &#8981; = vergrootglas icoon -->
+		<label for="search" class="searchButton">&#8981;</label>
+		<input id="search" type="search" placeholder="Enter your keywords">
+	</li>
+<li>
+		<nav>
+			<!-- &#9776; = hamburger menu icoon -->
+			<button aria-hidden="true">&#9776;</button>
+			<ul>
+				<li>
+					<h4>Main menu</h4>
+				</li>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">News</a></li>
+				<li><a href="#">Schedule / Pricing</a></li>
+				<li><a href="#">About Us</a></li>
+				<li><a href="#">Resources</a></li>
+				<li><a href="#">Contact us</a></li>
+			</ul>
+		</nav>
+</li>
+
+
+	</ul>
+
 	</header>
 
-<!-- Logo boven main sections -->
+	<!-- Logo boven main sections -->
 	<section class="logoSection">
-		<img src="img/logo.png" alt="BBBC logo">
+		<img src="img/logo1.png" alt="BBBC logo">
 	</section>
 
-<!-- Alle sections -->
+	<!-- Alle sections -->
 	<main>
-<!-- Eerste section: group classes -->
+		<!-- Eerste section: group classes -->
 		<section class="groupClassSection">
 			<div class="groupClassDiv">
-			<h3>Group Classes</h3>
-			<p>Open to anyone who wants to workout, learn to box or a combination of the two.</p>
-			<button type="button">Join now</button>
-		</div>
-				<img class="groupClassImg" src="img/groupclass1.png" alt="Guy in boxing stand">
+				<h3>Group Classes</h3>
+				<p>Open to anyone who wants to workout, learn to box or a combination of the two.</p>
+				<button type="button">Join now</button>
+			</div>
+			<img class="groupClassImg" src="img/groupclass1.png" alt="Guy in boxing stand">
 		</section>
 
-<!-- Tweede section: personal training -->
+		<!-- Tweede section: personal training -->
 		<section class="personalTrainingSection">
 			<div class="personalTrainingDiv">
-			<h3>Personal Training</h3>
-			<p>Times are available throughout the day, please email for availability at ballardbarbell@gmail.com.</p>
-			<button type="button">Contact us</button>
+				<h3>Personal Training</h3>
+				<p>Times are available throughout the day, please email for availability at ballardbarbell@gmail.com.</p>
+				<button type="button">Contact us</button>
 			</div>
 			<img class="personalTrainingImg" src="img/groupclass2.png" alt="Girl lifting kettle bell">
 		</section>
 
-<!-- Derde section: schedule -->
+		<!-- Derde section: schedule -->
 		<section class="schedule">
 			<h1>Our schedule</h1>
 
-			<strong>Monday</strong>
-			<ul>
-				<li>Noon - 1pm</li>
-				<li>5pm - 6pm</li>
-				<li>6:30pm - 7:30pm</li>
-				<li>7:30pm - 8pm (sparring)</li>
+			<ul class="scheduleDays">
+				<li>
+					<strong>Monday</strong>
+					<ul>
+						<li>Noon - 1pm</li>
+						<li>5pm - 6pm</li>
+						<li>6:30pm - 7:30pm</li>
+						<li>7:30pm - 8pm (sparring)</li>
+					</ul>
+				</li>
+				<li>
+					<strong>Tuesday</strong>
+					<ul>
+						<li>Noon - 1pm</li>
+						<li>5pm - 6pm</li>
+						<li>6:30pm - 7:30pm</li>
+					</ul>
+				</li>
+				<li>
+					<strong>Wednesday</strong>
+					<ul>
+						<li>Noon - 1pm</li>
+						<li>5pm - 6pm</li>
+						<li>6:30pm - 7:30pm</li>
+						<li>7:30pm - 8pm (sparring)</li>
+					</ul>
+				</li>
+				<li>
+					<strong>Thursday</strong>
+					<ul>
+						<li>Noon - 1pm</li>
+						<li>5pm - 6pm</li>
+						<li>6:30pm - 7:30pm</li>
+					</ul>
+				</li>
+				<li>
+					<strong>Friday</strong>
+					<ul>
+						<li>Noon - 1pm</li>
+						<li>5pm - 6pm</li>
+						<li>6:30pm - 7:30pm</li>
+						<li>7:30pm - 8pm (sparring)</li>
+					</ul>
+				</li>
 			</ul>
 
-			<strong>Tuesday</strong>
-			<ul>
-				<li>Noon - 1pm</li>
-				<li>5pm - 6pm</li>
-				<li>6:30pm - 7:30pm</li>
-			</ul>
-
-			<strong>Wednesday</strong>
-			<ul>
-				<li>Noon - 1pm</li>
-				<li>5pm - 6pm</li>
-				<li>6:30pm - 7:30pm</li>
-				<li>7:30pm - 8pm (sparring)</li>
-			</ul>
-
-			<strong>Thursday</strong>
-			<ul>
-				<li>Noon - 1pm</li>
-				<li>5pm - 6pm</li>
-				<li>6:30pm - 7:30pm</li>
-			</ul>
-
-			<strong>Friday</strong>
-			<ul>
-				<li>Noon - 1pm</li>
-				<li>5pm - 6pm</li>
-				<li>6:30pm - 7:30pm</li>
-				<li>7:30pm - 8pm (sparring)</li>
-			</ul>
 		</section>
 
-<!-- Vierde section: first class is free -->
+		<!-- Vierde section: first class is free -->
 		<section class="freeClassSection">
 			<h2>Your first class is free</h2>
 		</section>
 
-<!-- Vijfde section: our pricing -->
+		<!-- Vijfde section: our pricing -->
 		<section class="ourPricingSection">
 			<!-- In circle with white background  -->
 			<div class="ourPricingDiv">
-			<h2>Our</h2>
-			<h3>Pricing</h3>
-		</div>
+				<h2>Our</h2>
+				<h3>Pricing</h3>
+			</div>
 		</section>
 
-<!-- Zesde section: boxing image -->
+		<!-- Zesde section: boxing image -->
 		<section class="boxingImg">
 			<img src="img/rate_13.jpg" alt="Guy and girl boxing">
 		</section>
 
-<!-- Zevende section: monthly rate -->
+		<!-- Zevende section: monthly rate -->
 		<section class="monthlyRateSection">
 			<div class="monthlyRateDiv">
-			<h3>Monthly rate</h3>
-			<p>This includes unlimited class time, nutritional and fitness consulations.</p>
-			<button type="button">$165</button>
-		</div>
+				<h3>Monthly rate</h3>
+				<p>This includes unlimited class time, nutritional and fitness consulations.</p>
+				<button type="button">$165</button>
+			</div>
 		</section>
 
-<!-- Achtste section: squat image -->
+		<!-- Achtste section: squat image -->
 		<section class="squatImg">
 			<img src="img/rate_21.jpg" alt="Guy weightlifting squat">
 		</section>
 
-<!-- Negende section: drop-in -->
+		<!-- Negende section: drop-in -->
 		<section class="dropInSection">
 			<div class="dropInDiv">
-			<h3>Drop-in</h3>
-			<p>Stop by for any class and just pay our single class fee.</p>
-			<button type="button">$25</button>
-		</div>
+				<h3>Drop-in</h3>
+				<p>Stop by for any class and just pay our single class fee.</p>
+				<button type="button">$25</button>
+			</div>
 		</section>
 	</main>
 
-<!-- Footer -->
+	<!-- Footer -->
 	<footer>
 		<a href="#">^</a>
 	</footer>

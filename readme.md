@@ -6,15 +6,23 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
-
+1. Responsive menu: <https://codepen.io/shooft/pen/BaKGKwm/>
+2. Toegankelijkheid responsive menu links: <https://codepen.io/shooft/pen/yLOdLBg/>
+3. Grid voor responsiveness: <https://css-tricks.com/snippets/css/complete-guide-grid/>
+4. Flexbox voor de header en het trainingsschema: <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>
+5. Content: <http://ballardbarbellandboxingclub.com/>
 
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Dit ging goed: 
+* Na lange weg met veel drempels heb ik eindelijk uitgevogeld hoe ik grid en flexbox kan toepassen
+
+Dit was lastig:
+* Het responsive maken van de elementen in de main
+* Overzicht van de code bewaren
+* JavaScript toepassen..........
+* Het menu 100% naar wens responsive maken
 
 **Screenshot(s):**
 
