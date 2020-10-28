@@ -11,6 +11,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 3. Grid voor responsiveness: <https://css-tricks.com/snippets/css/complete-guide-grid/>
 4. Flexbox voor de header en het trainingsschema: <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>
 5. Content: <http://ballardbarbellandboxingclub.com/>
+6. Frameborder embedded YouTube video: <https://stackoverflow.com/questions/26274082/the-frameborder-attribute-on-the-iframe-element-is-obsolete-use-css-instead>
 
 
 ## Eindgesprek (week 7/8)
@@ -22,12 +23,25 @@ Dit was lastig:
 * Het responsive maken van de elementen in de main
 * Overzicht van de code bewaren
 * JavaScript toepassen..........
-* Het menu 100% naar wens responsive maken
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
-
+![screenshot mobiel](images/EindgesprekHomeMobiel1.JPG)
+![screenshot mobiel](images/EindgesprekHomeMobiel2.JPG)
+![screenshot mobiel](images/EindgesprekHomeMobiel3.JPG)
+![screenshot mobiel](images/EindgesprekHomeMobiel4.JPG)
+![screenshot mobiel](images/EindgesprekHomeMobiel5.JPG)
+![screenshot mobiel](images/EindgesprekHomeMobiel6.JPG)
+![screenshot mobiel](images/EindgesprekHomeMobiel7.JPG)
+![screenshot mobiel](images/EindgesprekResourcesMobiel1.JPG)
+![screenshot mobiel](images/EindgesprekResourcesMobiel2.JPG)
+![screenshot mobiel](images/EindgesprekResourcesMobiel3.JPG)
+![screenshot desktop](images/EindgesprekHomeDesktop1.JPG)
+![screenshot desktop](images/EindgesprekHomeDesktop2.JPG)
+![screenshot desktop](images/EindgesprekHomeDesktop3.JPG)
+![screenshot desktop](images/EindgesprekHomeDesktop4.JPG)
+![screenshot desktop](images/EindgesprekResourcesDesktop1.JPG)
+![screenshot desktop](images/EindgesprekResourcesDesktop2.JPG)
 
 
 ## Voortgang 3 (week 6)
