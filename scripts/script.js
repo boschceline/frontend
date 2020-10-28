@@ -1,3 +1,5 @@
+// Celine van den Bosch, 500707642, 210B, 28.10.2020
+
 // Bron: https://codepen.io/shooft/pen/BaKGKwm/
 var deButton = document.querySelector("nav button");
 var ourPricingChange = document.querySelector("section.ourPricingSection");
