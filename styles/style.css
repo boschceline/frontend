@@ -581,7 +581,8 @@ iframe {
   }
 
   .groupClassDiv {
-    max-width: 20em;
+    max-width: 30em;
+    top: 1em;
     right: 0;
   }
 
@@ -601,12 +602,15 @@ iframe {
   }
 
   .personalTrainingSection {
+    position: relative;
     grid-column-start: 2;
     grid-column-end: 3;
   }
 
   .personalTrainingDiv {
-    max-width: 25em;
+    top: 1em;
+    left: 0;
+    max-width: 26em;
   }
 
   .personalTrainingSection h3 {
@@ -714,8 +718,18 @@ iframe {
     font-size: 48px;
   }
 
+  .groupClassDiv {
+    top: 3em;
+    right: 5em;
+  }
+
   .personalTrainingSection h3 {
     font-size: 48px;
+  }
+
+  .personalTrainingDiv {
+    top: 3em;
+    left: 5em;
   }
 }
 
