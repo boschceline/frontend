@@ -259,8 +259,7 @@ main button {
   position: absolute;
   z-index: 10;
   text-align: right;
-  padding: 30px 75px 10px 0px;
-  margin-left: 15px;
+  padding: 30px 75px 10px 15px;
   overflow: auto;
 }
 
@@ -353,6 +352,7 @@ strong {
   text-align: center;
   width: 10em;
   padding: 15px;
+  transition: .7s;
 }
 
 .ourPricingSection h2 {
@@ -367,9 +367,10 @@ strong {
 
 /* Animatie voor de cirkel */
 section.ourPricingSection.change div {
-  transition: .7s;
+  transition: .5s;
   background-color: #E5003D;
   color: #ffffff;
+  transform: rotateY(.5turn);
 }
 
 /* ---------------Zesde section: boxing image--------------- */
@@ -526,13 +527,27 @@ footer a {
 }
 
 /* ---------------Tweede en derde section: How to video's--------------- */
-.firstVideo, .secondVideo {
-  padding: 0px 30px;
-}
-
-.firstVideo h2, .secondVideo h2 {
+.firstVideoSection h2 {
+  margin: 0px 30px;
+  padding-top: 20px;
+  padding-bottom: 10px;
   font-size: 36px;
   font-weight: normal;
+}
+
+.secondVideoSection h2  {
+  margin: 0px 30px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  font-size: 36px;
+  font-weight: normal;
+}
+
+.youtubeVideo {
+  position: relative;
+  width: calc(100% - 60px);
+  padding-bottom: calc((100% - 60px) * .5625);
+  margin: 0px 30px;
 }
 
 /* Opmaak voor de embedded YouTube video's */
@@ -540,8 +555,9 @@ iframe {
   /* YouTube standaard:
   min-width: 560px;
   min-height: 315px; */
+  position: absolute;
   width: 100%;
-  min-height: 315px;
+  height: 100%;
   border-width: 0px;
 }
 
@@ -559,12 +575,14 @@ iframe {
   }
 
   .groupClassSection {
+    position: relative;
     grid-column-start: 1;
     grid-column-end: 2;
   }
 
   .groupClassDiv {
     max-width: 20em;
+    right: 0;
   }
 
   .groupClassSection h3 {
@@ -676,14 +694,14 @@ iframe {
     grid-row: 1;
   }
 
-  .firstVideo {
+  .firstVideoSection {
     grid-column-start: 1;
     grid-column-end: 3;
     grid-row: 2;
     margin: auto;
   }
 
-  .secondVideo {
+  .secondVideoSection {
     grid-column-start: 1;
     grid-column-end: 3;
     grid-row: 3;
